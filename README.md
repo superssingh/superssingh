@@ -8,15 +8,11 @@
 
 - 👯 I’m looking to collaborate on [gogixer](gogixer.com)
 
-- 👨‍💻 All of my projects are available at [gogixer.com/santoshsingh](gogixer.com/santoshsingh)
-
-- 📝 I regularly write articles on [gogixer.com/posts](gogixer.com/posts)
+- 📝 I regularly write articles on [gogixer.com/posts]
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, CSS, SCSS, TailwindCSS**
 
 - 📫 How to reach me **superssingh@gmail.com**
-
-- 📄 Know about my experiences [gogixer.com/santoshsingh](gogixer.com/santoshsingh)
 
 - ⚡ Fun fact **I am looking for remote jobs.**
 
