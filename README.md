@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Gogixer](gogixer.com)
 
-- 👯 I’m looking to collaborate on [gogixer](gogixer.com)
-
 - 📝 I regularly write articles on [gogixer.com/posts]
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, CSS, SCSS, TailwindCSS**
