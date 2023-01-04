@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Gogixer](gogixer.com)
 
-- 📝 I regularly write articles on [gogixer.com/posts]
+- 📝 I write articles about frontend, backend and fullstack developement on [gogixer.com/posts]
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Mongodb, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS**
 
-- 📫 How to reach me **superssingh@gmail.com**
+- 📫 Contact me on twitter: **https://twitter.com/superssingh** OR Email me: **superssingh@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
