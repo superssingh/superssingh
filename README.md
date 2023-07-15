@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Mongodb, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS**
 
-- 📫 Contact me on twitter: **https://twitter.com/superssingh** OR Email me: **superssingh@gmail.com**
+- 📫 Contact me on Twitter: **https://twitter.com/superssingh** 
 
 
 <h3 align="left">Connect with me:</h3>
