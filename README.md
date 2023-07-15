@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/superssingh" target="blank"><img src="https://img.shields.io/twitter/follow/superssingh?logo=twitter&style=for-the-badge" alt="superssingh" /></a> </p>
 
-- 🔭 I’m currently working on [Gogixer](gogixer.com)
+- 🔭 I’m currently working on <a href="https://gogixer.com" target="blank">[Gogixer]</a>
 
-- 📝 I write articles about frontend, backend and fullstack developement on [gogixer.com](gogixer.com/posts)
+- 📝 I write articles about frontend, backend, and fullstack development on <a href="https://gogixer.com/posts" target="blank">[gogixer.com]</a>
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Mongodb, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS**
 
