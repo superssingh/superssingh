@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Gogixer](gogixer.com)
 
-- 📝 I write articles about frontend, backend and fullstack developement on [gogixer.com/posts]
+- 📝 I write articles about frontend, backend and fullstack developement on [gogixer](gogixer.com/posts)
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Mongodb, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS**
 
