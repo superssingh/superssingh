@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/superssingh" target="blank"><img src="https://img.shields.io/twitter/follow/superssingh?logo=twitter&style=for-the-badge" alt="superssingh" /></a> </p>
 
-- 📝 I built frontend, backend and full stack apps for clients which is based on react framework. </a>
+- 📝 I built responsive web apps for clients which is based on react framework. </a>
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Postgresql, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS**
 
