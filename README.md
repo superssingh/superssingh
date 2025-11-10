@@ -6,7 +6,7 @@
 
 - 📝 I built responsive web apps for clients which is based on react framework. </a>
 
-- 💬 Ask me about ** Javascript, React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, Postgresql, HeadlessCMS, RESTful, Graphql, CSS/SCSS, TailwindCSS, Java**
+- 💬 Ask me about ** Javascript, React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, HeadlessCMS, RESTful, Graphql, Java, CSS/SCSS, TailwindCSS**
 
 - 📫 Contact me on Twitter: **https://twitter.com/superssingh** 
 
