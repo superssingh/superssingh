@@ -6,7 +6,7 @@
 
 - 📝 I built, deploy, scale web and mobile apps with lowest cost possible with AI for clients. </a>
 
-- 💬 Ask me about ** Nextjs, Expressjs, Typescript, Postgresql, Python, RESTful, LLM, RAG, HuggingFace and Fine-tuning.
+- 💬 Ask me about ** Nextjs, Expressjs, Typescript, Postgresql, Python, RESTful, LLM, RAG, HuggingFace and Fine-tuning, Java(starting from this).
 
 - 📫 Contact me on Twitter: **https://twitter.com/superssingh** 
 
