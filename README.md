@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there 👋, I'm Santosh Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer + AI Engineer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/superssingh" target="blank"><img src="https://img.shields.io/twitter/follow/superssingh?logo=twitter&style=for-the-badge" alt="superssingh" /></a> </p>
 
-- 📝 I built responsive web apps for clients which is based on react framework. </a>
+- 📝 I built, deploy, scale web and mobile apps with lowest cost possible with AI for clients. </a>
 
-- 💬 Ask me about ** Javascript, React, Nextjs, Nodejs, Expressjs, Typescript, Postgresql, HeadlessCMS, RESTful, Graphql, Java, CSS/SCSS, TailwindCSS**
+- 💬 Ask me about ** Nextjs, Expressjs, Typescript, Postgresql, Python, RESTful, LLM, RAG, HuggingFace and Fine-tuning.
 
 - 📫 Contact me on Twitter: **https://twitter.com/superssingh** 
 
